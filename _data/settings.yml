@@ -7,8 +7,9 @@ disqus:
 # google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Movies', folder: 'pages', file: 'facts.html'}
+- {name: 'Movies', folder: 'pages', file: 'resources.html'}
 - {name: 'Images', folder: 'pages', file: 'resources.html'}
+- {name: 'Misc', folder: 'pages', file: 'misc.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
